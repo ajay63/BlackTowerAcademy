@@ -1,0 +1,18 @@
+*** READ FIRST ***
+Simply press the capital letter G (by holding down the Shift key and pressing g) while in Normal mode. This command will instantly take you to the last line of the file.
+
+*** THANK YOU***
+
+The "Editor Wars" in the Linux community refers to the long-standing debate among programmers and sysadmins over the best text editor to use, particularly between two of the most popular editors: Vim and Emacs. This debate has been ongoing since the early days of Unix and Linux and continues today. Both Vim and Emacs have passionate user bases that advocate for their chosen editor’s superiority, each touting unique features, customizability, and workflows that cater to different preferences and needs. The debate often centers around key aspects such as speed, ease of use, customization capabilities, and the philosophy behind each editor.
+
+Vim, short for "Vi Improved," is favored for its efficiency and minimalism. It is a modal editor, meaning that it has different modes for inserting text, navigating, and executing commands. Vim users often argue that its design allows for rapid text editing with minimal keystrokes, which can significantly boost productivity once the steep learning curve is overcome. Vim is also lightweight and can be run on virtually any machine, making it a favorite among those who prioritize performance and efficiency. Its adherents appreciate the focus on the keyboard, the powerful command set, and the editor's responsiveness.
+
+On the other hand, Emacs is known for its extreme flexibility and extensibility. Described as more of an environment than just a text editor, Emacs can be customized and extended into almost anything a user desires, from a mail client to a project planner, all within the editor itself. It uses a Lisp interpreter for scripting, allowing users to write custom functions and modify the editor to suit their specific workflows. Emacs supporters often highlight the editor's all-encompassing nature and its potential to integrate various tools and functionalities in one place, creating a seamless experience for heavy users. However, this comes at the cost of a steeper learning curve and potentially higher resource usage compared to Vim.
+
+The Editor Wars are often seen as a microcosm of the broader debates in the tech world about simplicity versus complexity, minimalism versus feature-richness, and the differing philosophies of how software should be designed and used. While these debates can sometimes be heated, they also reflect the diversity and passion within the Linux community. Many developers find value in both editors and may use them in different contexts or for different tasks. Ultimately, the Editor Wars underscore the importance of choice and customization in open-source software, allowing users to select the tools that best fit their personal workflow and preferences.
+
+*** PRO TIP ***
+
+Simply type gg in Normal mode. This command will take you to the first line of the file.
+
+*** THANK YOU***
